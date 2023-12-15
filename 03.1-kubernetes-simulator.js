@@ -4,7 +4,7 @@ const prepareLog = pid => msg => console.log(`pid: [${pid}] - ${msg}`)
 const INSTANCES = 3
 
 function spinUpInstance() {
-    const cp = spawn('node', ['server-let-it-crash.js'])
+    const cp = spawn('node', ['03.2-server-let-it-crash.js'])
     const log = prepareLog(cp.pid)
     log('starting...')
     cp.stdout.on('data', msg => console.log(msg.toString().trim()))
