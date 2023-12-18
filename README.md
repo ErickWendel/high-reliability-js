@@ -5,6 +5,7 @@ Welcome, this repo is part of my [**youtube video**](https://youtu.be/iC_tKAyLea
 First of all, leave your star 🌟 on this repo.
 
 Access our [**exclusive telegram channel**](https://t.me/ErickWendelContentHub) so I'll let you know about all the content I've been producing 
+
 ![JavaScript is unreliable](https://github.com/ErickWendel/high-reliability-js/assets/8060102/3685122f-b2a2-4f50-9b40-418c6d0b1be0)
 
 ## Checkout the examples
