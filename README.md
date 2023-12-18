@@ -15,6 +15,7 @@ Access our [**exclusive telegram channel**](https://t.me/ErickWendelContentHub) 
 - [Kubernetes simulator (once an application crashes it spins up another)](./03.1-kubernetes-simulator.js)
 - [Let it crash! Handling global errors + graceful shutdown](./03.2-server-let-it-crash.js)
 
+Try them out [online here](https://gitpod.io#snapshot/c0f01607-ecd2-4a66-81d5-13f1a9fcb0b6)
 
 ## Author
 - [Erick Wendel](https://linktr.ee/erickwendel)
